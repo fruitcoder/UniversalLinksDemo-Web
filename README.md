@@ -6,8 +6,7 @@ See the iOS app [here](https://github.com/arvindhsukumar/UniversalLinksDemo-iOS)
 
 Deploy this app on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arvindhsukumar/UniversalLinksDemo-Web/tree/master)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fruitcoder/UniversalLinksDemo-Web/tree/master)
 
 ### Test the app
 
