@@ -8,4 +8,7 @@
            }
        ]
     }
+    "webcredentials": {
+       "apps": [ "V52NKR4UCE.de.br.app.mango" ]
+    }
 }
